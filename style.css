@@ -51,7 +51,7 @@ body {
 
 .title {
     color: white;
-    font-size: 35px;
+    font-size: 2.2rem;
     font-family: Inter;
     font-weight: 700;
     margin: 30px 100px 10px 40px;
@@ -101,7 +101,7 @@ mark {
 
 .stats-body {
     color: hsla(0, 0%, 100%, 0.6);
-    font-size: 15px;
+    font-size: 1rem;
     font-weight: 400;
     font-family: Inter;
     text-transform: uppercase;
@@ -117,7 +117,7 @@ mark {
         align-items: center;
         justify-content: center;
         height: 100%;
-        width: 90%;
+        width: 100%;
         overflow: visible;
         margin: 40px 0px 40px 0px;
     }
@@ -141,7 +141,7 @@ mark {
 
     [class*="content"] {
         width: 80%;
-        height: 70%;
+        height: 100%;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 10px;
@@ -149,7 +149,7 @@ mark {
     }
 
     [class*="title"] {
-        font-size:28px;
+        font-size: 2rem;
         text-align: center;
         width: 100%;
         margin: 0px;
